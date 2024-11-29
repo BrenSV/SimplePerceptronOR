@@ -27,4 +27,4 @@ Para ejecutar este proyecto, necesitas:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/perceptron-simple.git
+   git clone https://github.com/BrenSV/perceptron-simple.git
